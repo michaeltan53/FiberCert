@@ -175,3 +175,4 @@ class BackgroundModel(GenerativeModel):
         else:
             raise NotImplementedError
 
+
